@@ -21,7 +21,6 @@ With over **15 years of professional experience in the field of Cyber Security**
 
 - 💻 Cyber Security Specialist & Software Engineer
 - 🌱 Lifelong learner in technology and information security
-- 📝 Content creator & blogger at [roomkangali.com](https://roomkangali.com/)
 - 🔍 Focused on security research, open-source, and productivity tools
 
 ## 🛠️ Tech Stack
