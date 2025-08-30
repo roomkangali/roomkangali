@@ -2,7 +2,11 @@
 
 Welcome to my GitHub profile!
 
-With over **15 years of professional experience in the field of Cyber Security**, I have extensively studied and implemented effective information security defense strategies. I maintain a strong commitment to staying abreast of the latest global research and innovations in Cyber Security.
+## 🛡️ About Me
+
+- 💻 Cyber Security Specialist & Software Engineer
+- 🌱 Lifelong learner in technology and information security
+- 🔍 Focused on security research, open-source, and productivity tools
 
 ---
 
@@ -16,12 +20,6 @@ With over **15 years of professional experience in the field of Cyber Security**
   Google · Apple · Microsoft · Facebook · Mozilla · Safari · Huawei · Crypto · Zoho Corp · etc.
 
 ---
-
-## 🛡️ About Me
-
-- 💻 Cyber Security Specialist & Software Engineer
-- 🌱 Lifelong learner in technology and information security
-- 🔍 Focused on security research, open-source, and productivity tools
 
 ## 🛠️ Tech Stack
 
@@ -37,13 +35,3 @@ With over **15 years of professional experience in the field of Cyber Security**
 - 💼 LinkedIn: [linkedin.com/in/roomkangali](https://www.linkedin.com/in/mohammad-ali-syarief/)
 - ✍️ Medium: [medium.com/@roomkangali](https://medium.com/@roomkangali)
 - ▶️ YouTube: [youtube.com/@roomkangali](https://youtube.com/@roomkangali)
-
-
-## ✨ Fun Facts
-
-- Actively contributing to the global security community through vulnerability research and responsible disclosure.
-- Enjoy sharing real-world cyber security insights via articles, trainings, and public talks.
-
----
-
-_Thanks for visiting my profile!_
