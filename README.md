@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🛡️ About Me
 
-- 💻 Cyber Security Specialist & Software Engineer
+- 💻 Cyber Security Researcher & Software Engineer
 - 🌱 Lifelong learner in technology and information security
 - 🔍 Focused on security research, open-source, and productivity tools
 
