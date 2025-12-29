@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - **15+ Years Experience Cyber Security**
 - **100+ Projects**
 - **50+ Trainings Delivered**
-- **6+ CVEs Published**
+- **9+ CVEs Published**
 - **Hall of Fame - Bug Bounty:**  
   Google · Apple · Microsoft · Facebook · Mozilla · Safari · Huawei · Crypto · Zoho Corp · etc.
 
